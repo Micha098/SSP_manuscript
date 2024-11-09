@@ -10,7 +10,6 @@ The SSP utilizes three complementary devices selected for their ability to recor
 
 1. **Dreem3 EEG Headband (Beacon Inc.)**
    - Electroencephalogram (EEG) recordings
-   - Electrooculogram (EOG)
    - Head movement data
    - Enables direct identification of sleep stages and sleep architecture
 
@@ -39,21 +38,12 @@ This repository provides Python notebooks and scripts for:
 2. Demographics analysis of the study population
 3. Assessment of recording coverage across devices
 
-**Important Note:** The visualizations and analyses in this repository are conducted on summarized sleep metrics (e.g., total sleep time, wake after sleep onset, sleep onset latency) and demographic data. The raw sensor data (EEG signals, accelerometer data, etc.) are not included in these basic visualization tools but are available in the complete dataset.
-
 ## Sample Characteristics
 - Age range: 10-17 years
 - Balanced sex distribution
 - Includes siblings living in the same household
 - Documentation of ADHD comorbidity
 - Over 3,600 nights of recordings
-
-## Unique Features
-1. Parallel recordings from multiple devices enabling cross-validation of sleep measures
-2. Sibling design controlling for familial environmental factors
-3. Extended recording period allowing assessment of sleep patterns over time
-4. Raw sensor-level data availability for transparent and reliable research
-5. Comprehensive questionnaire data for correlation with objective measures
 
 ## Getting Started
 The Jupyter notebooks in this repository demonstrate:
@@ -62,3 +52,5 @@ The Jupyter notebooks in this repository demonstrate:
 - Initial exploration of sleep metrics
 - Cross-device comparison of key sleep parameters
 
+
+**Important Note:** The visualizations and analyses in this repository are conducted on summarized sleep metrics (e.g., total sleep time, wake after sleep onset, sleep onset latency) and demographic data. The raw sensor data (EEG signals, accelerometer data, etc.) are not included in these basic visualization tools but are available in the complete dataset.
