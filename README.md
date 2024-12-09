@@ -1,20 +1,19 @@
-<div align="center">
-  <table>
-    <tr>
-      <td align="left" width="33%">
-        <img src="./images/BGU_logo.png" width="200"/>
-      </td>
-      <td align="center" width="50%">
-        <h1></h1>
-      </td>
-      <td align="right" width="33%">
-        <img src="./images/Simons_logo.png" width="200"/>
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="./images/Simons_logo.png" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="./images/BGU_logo.png" width="200"/>
 </div>
 
-
+  
 # Simons Sleep Project (SSP) Analysis Tools
 
 ## Overview
