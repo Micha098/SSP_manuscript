@@ -1,4 +1,5 @@
 ![Simons Logo](./images/Simons_logo.png)
+
 ![BGU Logo](./images/BGU_logo.png)
 
 # Simons Sleep Project (SSP) Analysis Tools
