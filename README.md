@@ -17,7 +17,7 @@
 # Simons Sleep Project (SSP) Analysis Tools
 
 ## Overview
-The Simons Sleep Project (SSP) is a comprehensive open resource designed to accelerate sleep research in autism and other neurodevelopmental conditions. The project contains data collected from 102 autistic adolescents and 100 of their non-autistic siblings, offering unique insights into sleep patterns and their relationship with neurodevelopmental symptoms.
+The Simons Sleep Project (SSP) is a comprehensive open resource designed to accelerate sleep research in autism and other neurodevelopmental conditions. The project contains data collected from 102 autistic adolescents and 98 of their non-autistic siblings, offering unique insights into sleep patterns and their relationship with neurodevelopmental symptoms.
 
 ## Dataset Description
 
