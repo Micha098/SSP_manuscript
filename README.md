@@ -61,14 +61,8 @@ This repository provides Python notebooks and scripts for:
 - Documentation of ADHD comorbidity
 - Over 3,600 nights of recordings
 
-## Getting Started
-The Jupyter notebooks in this repository demonstrate:
-- Basic demographic analysis of the study population
-- Visualization of recording coverage across devices
-- Initial exploration of sleep metrics
-- Cross-device comparison of key sleep parameters
 
-## Purpose and Analysis Structure
+## Objectives 
 
 This repository provides a comprehensive recreation of the analyses presented in the paper "Simons Sleep Project (SSP): An open science resource for accelerating scalable digital health research in autism and other psychiatric conditions." The analyses are organized into separate notebooks, each corresponding to a specific figure from the paper, making it easy to understand and reproduce the results step by step.
 
@@ -92,8 +86,7 @@ This repository provides a comprehensive recreation of the analyses presented in
   - EEG recordings from Dreem3
   - Smartwatch sensor data from EmbracePlus
   - Sleep mat measurements from Withings
-  - Sleep diary entries
-
+  
 #### Figure 4: Device Agreement Analysis
 - `figure4_device_agreement.ipynb`
 - Calculates Concordance Correlation Coefficients (CCCs)
