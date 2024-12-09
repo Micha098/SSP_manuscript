@@ -4,9 +4,6 @@
       <td align="left" width="33%">
         <img src="./images/BGU_logo.png" width="200"/>
       </td>
-      <td align="center" width="34%">
-        <h1>Simons Sleep Project (SSP) Analysis Tools</h1>
-      </td>
       <td align="right" width="33%">
         <img src="./images/Simons_logo.png" width="200"/>
       </td>
