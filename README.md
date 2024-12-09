@@ -4,12 +4,16 @@
       <td align="left" width="33%">
         <img src="./images/BGU_logo.png" width="200"/>
       </td>
+      <td align="center" width="50%">
+        <h1></h1>
+      </td>
       <td align="right" width="33%">
         <img src="./images/Simons_logo.png" width="200"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 # Simons Sleep Project (SSP) Analysis Tools
 
